@@ -5,6 +5,8 @@ Here's a simple Python script to list all S3 buckets using the AWS SDK for Pytho
 Install Boto3: Ensure you have Boto3 installed. If not, you can install it using pip:
 <code>pip install boto3</code>
 
+<b>Boto3 is the official AWS SDK for Python that allows developers to interact with AWS services like S3, EC2, and more. It provides a simple, Pythonic way to manage and automate AWS resources programmatically.</b>
+
 #2. Configure AWS CLI: Before running the script, please ensure you have configured your AWS CLI with your credentials. You can do this by running:
 <code>aws configure</code>
 You must enter your AWS Access Key, Secret Key, default region, and output format.
